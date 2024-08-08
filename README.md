@@ -1,5 +1,7 @@
 # KC Foreground Service
 ## Latest version 0.0.1
+Derived from package https://pub.dev/packages/flutter_foreground_service 
+
 ## Setup
 
 ### Step 1
