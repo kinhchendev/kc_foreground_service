@@ -1,7 +1,7 @@
 name: kc_foreground_service
 description: "A package support foreground service"
 version: 0.0.1
-homepage:
+homepage: https://github.com/kinhchendev/kc_foreground_service
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
