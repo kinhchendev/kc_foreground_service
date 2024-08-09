@@ -21,6 +21,11 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  plugin:
+    platforms:
+      android:
+        package: dk.cachet.flutter_foreground_service
+        pluginClass: FlutterForegroundServicePlugin
 
   # To add assets to your package, add an assets section, like this:
   # assets:
